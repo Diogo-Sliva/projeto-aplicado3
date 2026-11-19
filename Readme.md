@@ -12,6 +12,9 @@ Links de Entrega e Demonstração
 
 Notebook no Google Colab: Acessar Projeto_Aplicado_III_Etapa_4.ipynb
 
+Youtube: https://youtu.be/MJXfcGwG2MQ
+
+
 Sobre o Projeto e Alinhamento com os ODS (ONU)
 
 Este projeto implementa e avalia um sistema de recomendação personalizada de filmes utilizando a base pública MovieLens Latest Small (README da base), disponibilizada pelo GroupLens Research da University of Minnesota (100.836 avaliações, 610 usuários e 9.742 filmes cadastrados).
